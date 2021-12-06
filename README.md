@@ -1,4 +1,4 @@
-# Hi there this is UfukCem 👋
+# Hi there 👋
 
-- 🔭 I’m currently studying IT at EMU and 🌱 learning JavaScript and Python
+- 🔭 My name is Ufuk Cem and currently student of Eastern Mediterranean University, Department of Information Technology. This is my 4th year and as soon as graduate, planning to work on Software Engineering. So far i have worked on C, C++ and Java due to my education but mostly focused on my personal favorite technologies such as Python and JavaScript. I am planning to work on MERN stack development and Machine Learning
 - 📫 How to reach me: ufukcemdelice02@gmail.com
