@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Ufuk Cem and recently graduated from Eastern Mediterranean University, <br>Department of Information Technology. I am working on Software Engineering and <br>Data Science. So far i have worked on C, C++ and Java due to my education but mostly <br>focused on my personal favorite technologies such as Python and Node Js.
+My name is Ufuk Cem and recently graduated from Eastern Mediterranean University, <br>Department of Information Technology. I am working on Software Engineering.  <br> So far i have worked on C, C++ and Java due to my education but mostly <br>focused on my personal favorite technologies such as Python and Node Js.
 
 
 ## 🌐 Socials:
