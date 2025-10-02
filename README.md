@@ -1,7 +1,7 @@
 # About Me
 Hi! I'm Ufuk Cem, a passionate Cloud-Native Software Engineer who thrives on continuous learning and innovation. I build robust full-stack applications using Node.js and AWS, while advancing my skills in Cloud and Software Architecture to craft scalable, high-performance solutions.
 
-While my current focus is on cloud engineering, I’m steadily preparing myself to transition into the fields of Data and AI engineering. I haven’t started working on real-world Data or AI projects yet, but I'm actively building the necessary foundations to get there. My goal is to first gain hands-on industry experience and then take on more complex, intelligence-driven challenges.
+While my current focus is on cloud engineering, I’m steadily preparing myself to transition into the fields of ML and AI Engineering. I haven’t started working on real-world ML or AI projects yet, but I'm actively building the necessary foundations to get there. My goal is to first gain hands-on industry experience and then take on more complex, intelligence-driven challenges.
 
 I believe in building not just software, but ecosystems — powerful, privacy-conscious, and purpose-driven technologies that shape the future.
 
